@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+}
+.buttons .btn{
+    width: 200px;
+}
+.buttons i{
+    color: white;
+}
